@@ -1,66 +1,82 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Calobye-asp.net-main\\",
+  "WorkspaceRootPath": "D:\\Calobye\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|d:\\calobye-asp.net-main\\calobye\\views\\user\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:calobye\\views\\user\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|d:\\calobye\\calobye\\views\\shared\\partial\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:calobye\\views\\shared\\partial\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye-asp.net-main\\calobye\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:calobye\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye\\Calobye\\Views\\Shared\\Partial\\_Header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:Calobye\\Views\\Shared\\Partial\\_Header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye-asp.net-main\\calobye\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:calobye\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye\\Calobye\\Views\\Shared\\Partial\\_SearchMobile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:Calobye\\Views\\Shared\\Partial\\_SearchMobile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye-asp.net-main\\calobye\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:calobye\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye\\Calobye\\Views\\User\\changePassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:Calobye\\Views\\User\\changePassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye-asp.net-main\\calobye\\assets\\js\\utils.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:calobye\\assets\\js\\utils.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye\\Calobye\\Services\\AdminService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:Calobye\\Services\\AdminService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye-asp.net-main\\calobye\\assets\\js\\targethtml.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:calobye\\assets\\js\\targethtml.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye\\Calobye\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:Calobye\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye-asp.net-main\\calobye\\assets\\js\\helper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:calobye\\assets\\js\\helper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye\\Calobye\\Assets\\js\\utils.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:Calobye\\Assets\\js\\utils.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye-asp.net-main\\calobye\\assets\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:calobye\\assets\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye\\Calobye\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:Calobye\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye-asp.net-main\\calobye\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:calobye\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye\\Calobye\\Views\\Shared\\Partial\\_Sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:Calobye\\Views\\Shared\\Partial\\_Sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye-asp.net-main\\calobye\\views\\category\\_categorynavshowdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:calobye\\views\\category\\_categorynavshowdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye\\Calobye\\Assets\\js\\targetHTML.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:Calobye\\Assets\\js\\targetHTML.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye-asp.net-main\\calobye\\views\\category\\_categorynav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:calobye\\views\\category\\_categorynav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye\\Calobye\\Assets\\js\\helper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:Calobye\\Assets\\js\\helper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye-asp.net-main\\calobye\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:calobye\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye\\Calobye\\Assets\\js\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:Calobye\\Assets\\js\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye-asp.net-main\\calobye\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:calobye\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye\\Calobye\\Views\\Category\\_CategoryNavShowDetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:Calobye\\Views\\Category\\_CategoryNavShowDetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye-asp.net-main\\calobye\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:calobye\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye\\Calobye\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:Calobye\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye-asp.net-main\\calobye\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:calobye\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye\\Calobye\\Views\\Category\\_CategoryNav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:Calobye\\Views\\Category\\_CategoryNav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye\\Calobye\\Controllers\\CartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:Calobye\\Controllers\\CartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye\\Calobye\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:Calobye\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye\\Calobye\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:Calobye\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|D:\\Calobye\\Calobye\\Web.Debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8CFF01A5-DD47-4335-AC60-CB8ACBAC15D0}|Calobye\\Calobye.csproj|solutionrelative:Calobye\\Web.Debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,44 +86,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "changePassword.cshtml",
-              "DocumentMoniker": "D:\\Calobye-asp.net-main\\Calobye\\Views\\User\\changePassword.cshtml",
-              "RelativeDocumentMoniker": "Calobye\\Views\\User\\changePassword.cshtml",
-              "ToolTip": "D:\\Calobye-asp.net-main\\Calobye\\Views\\User\\changePassword.cshtml",
-              "RelativeToolTip": "Calobye\\Views\\User\\changePassword.cshtml",
-              "ViewState": "AQIAADsAAACAMzMzMzMbwAAAAAAAAAAA",
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "D:\\Calobye\\Calobye\\Views\\Shared\\Partial\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "Calobye\\Views\\Shared\\Partial\\_Footer.cshtml",
+              "ToolTip": "D:\\Calobye\\Calobye\\Views\\Shared\\Partial\\_Footer.cshtml",
+              "RelativeToolTip": "Calobye\\Views\\Shared\\Partial\\_Footer.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-09T08:03:46.305Z",
+              "WhenOpened": "2024-12-05T07:00:01.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "D:\\Calobye\\Calobye\\Views\\Shared\\Partial\\_Header.cshtml",
+              "RelativeDocumentMoniker": "Calobye\\Views\\Shared\\Partial\\_Header.cshtml",
+              "ToolTip": "D:\\Calobye\\Calobye\\Views\\Shared\\Partial\\_Header.cshtml",
+              "RelativeToolTip": "Calobye\\Views\\Shared\\Partial\\_Header.cshtml",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T06:59:56.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_SearchMobile.cshtml",
+              "DocumentMoniker": "D:\\Calobye\\Calobye\\Views\\Shared\\Partial\\_SearchMobile.cshtml",
+              "RelativeDocumentMoniker": "Calobye\\Views\\Shared\\Partial\\_SearchMobile.cshtml",
+              "ToolTip": "D:\\Calobye\\Calobye\\Views\\Shared\\Partial\\_SearchMobile.cshtml",
+              "RelativeToolTip": "Calobye\\Views\\Shared\\Partial\\_SearchMobile.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T06:59:54.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "changePassword.cshtml",
+              "DocumentMoniker": "D:\\Calobye\\Calobye\\Views\\User\\changePassword.cshtml",
+              "RelativeDocumentMoniker": "Calobye\\Views\\User\\changePassword.cshtml",
+              "ToolTip": "D:\\Calobye\\Calobye\\Views\\User\\changePassword.cshtml",
+              "RelativeToolTip": "Calobye\\Views\\User\\changePassword.cshtml",
+              "ViewState": "AQIAACAAAACAMzMzMzMbwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T08:03:46.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AdminService.cs",
-              "DocumentMoniker": "D:\\Calobye-asp.net-main\\Calobye\\Services\\AdminService.cs",
+              "DocumentMoniker": "D:\\Calobye\\Calobye\\Services\\AdminService.cs",
               "RelativeDocumentMoniker": "Calobye\\Services\\AdminService.cs",
-              "ToolTip": "D:\\Calobye-asp.net-main\\Calobye\\Services\\AdminService.cs",
+              "ToolTip": "D:\\Calobye\\Calobye\\Services\\AdminService.cs",
               "RelativeToolTip": "Calobye\\Services\\AdminService.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAMA9wAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T08:03:36.203Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\Calobye-asp.net-main\\Calobye\\Controllers\\UserController.cs",
+              "DocumentMoniker": "D:\\Calobye\\Calobye\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Calobye\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\Calobye-asp.net-main\\Calobye\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Calobye\\Calobye\\Controllers\\UserController.cs",
               "RelativeToolTip": "Calobye\\Controllers\\UserController.cs",
               "ViewState": "AQIAAFYAAAAABAAAAIAowAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -115,11 +171,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "utils.js",
-              "DocumentMoniker": "D:\\Calobye-asp.net-main\\Calobye\\Assets\\js\\utils.js",
+              "DocumentMoniker": "D:\\Calobye\\Calobye\\Assets\\js\\utils.js",
               "RelativeDocumentMoniker": "Calobye\\Assets\\js\\utils.js",
-              "ToolTip": "D:\\Calobye-asp.net-main\\Calobye\\Assets\\js\\utils.js",
+              "ToolTip": "D:\\Calobye\\Calobye\\Assets\\js\\utils.js",
               "RelativeToolTip": "Calobye\\Assets\\js\\utils.js",
               "ViewState": "AQIAAAYAAADAZmZmZiYwwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -127,11 +183,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Calobye\\Calobye\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Calobye\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Calobye\\Calobye\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Calobye\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAEwCIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T08:01:16.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "D:\\Calobye\\Calobye\\Views\\Shared\\Partial\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "Calobye\\Views\\Shared\\Partial\\_Sidebar.cshtml",
+              "ToolTip": "D:\\Calobye\\Calobye\\Views\\Shared\\Partial\\_Sidebar.cshtml",
+              "RelativeToolTip": "Calobye\\Views\\Shared\\Partial\\_Sidebar.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAEsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T07:03:26.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "targetHTML.js",
-              "DocumentMoniker": "D:\\Calobye-asp.net-main\\Calobye\\Assets\\js\\targetHTML.js",
+              "DocumentMoniker": "D:\\Calobye\\Calobye\\Assets\\js\\targetHTML.js",
               "RelativeDocumentMoniker": "Calobye\\Assets\\js\\targetHTML.js",
-              "ToolTip": "D:\\Calobye-asp.net-main\\Calobye\\Assets\\js\\targetHTML.js",
+              "ToolTip": "D:\\Calobye\\Calobye\\Assets\\js\\targetHTML.js",
               "RelativeToolTip": "Calobye\\Assets\\js\\targetHTML.js",
               "ViewState": "AQIAAA0AAABgzczMzMwnwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -139,11 +219,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "helper.js",
-              "DocumentMoniker": "D:\\Calobye-asp.net-main\\Calobye\\Assets\\js\\helper.js",
+              "DocumentMoniker": "D:\\Calobye\\Calobye\\Assets\\js\\helper.js",
               "RelativeDocumentMoniker": "Calobye\\Assets\\js\\helper.js",
-              "ToolTip": "D:\\Calobye-asp.net-main\\Calobye\\Assets\\js\\helper.js",
+              "ToolTip": "D:\\Calobye\\Calobye\\Assets\\js\\helper.js",
               "RelativeToolTip": "Calobye\\Assets\\js\\helper.js",
               "ViewState": "AQIAABsAAADAMzMzMzMrwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -151,11 +231,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "App.js",
-              "DocumentMoniker": "D:\\Calobye-asp.net-main\\Calobye\\Assets\\js\\App.js",
+              "DocumentMoniker": "D:\\Calobye\\Calobye\\Assets\\js\\App.js",
               "RelativeDocumentMoniker": "Calobye\\Assets\\js\\App.js",
-              "ToolTip": "D:\\Calobye-asp.net-main\\Calobye\\Assets\\js\\App.js",
+              "ToolTip": "D:\\Calobye\\Calobye\\Assets\\js\\App.js",
               "RelativeToolTip": "Calobye\\Assets\\js\\App.js",
               "ViewState": "AQIAAJsAAAAAkDMzMzPrvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -163,23 +243,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Calobye-asp.net-main\\Calobye\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Calobye\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Calobye-asp.net-main\\Calobye\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Calobye\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAFEAAAAANTMzM7MiwGEAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-09T08:01:16.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "_CategoryNavShowDetail.cshtml",
-              "DocumentMoniker": "D:\\Calobye-asp.net-main\\Calobye\\Views\\Category\\_CategoryNavShowDetail.cshtml",
+              "DocumentMoniker": "D:\\Calobye\\Calobye\\Views\\Category\\_CategoryNavShowDetail.cshtml",
               "RelativeDocumentMoniker": "Calobye\\Views\\Category\\_CategoryNavShowDetail.cshtml",
-              "ToolTip": "D:\\Calobye-asp.net-main\\Calobye\\Views\\Category\\_CategoryNavShowDetail.cshtml",
+              "ToolTip": "D:\\Calobye\\Calobye\\Views\\Category\\_CategoryNavShowDetail.cshtml",
               "RelativeToolTip": "Calobye\\Views\\Category\\_CategoryNavShowDetail.cshtml",
               "ViewState": "AQIAACkAAAAAMzMzMzMrwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -187,11 +255,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\Calobye-asp.net-main\\Calobye\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "D:\\Calobye\\Calobye\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Calobye\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\Calobye-asp.net-main\\Calobye\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Calobye\\Calobye\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Calobye\\Controllers\\AuthController.cs",
               "ViewState": "AQIAABgAAAAAbmZmZmYTwC4AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -199,11 +267,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "_CategoryNav.cshtml",
-              "DocumentMoniker": "D:\\Calobye-asp.net-main\\Calobye\\Views\\Category\\_CategoryNav.cshtml",
+              "DocumentMoniker": "D:\\Calobye\\Calobye\\Views\\Category\\_CategoryNav.cshtml",
               "RelativeDocumentMoniker": "Calobye\\Views\\Category\\_CategoryNav.cshtml",
-              "ToolTip": "D:\\Calobye-asp.net-main\\Calobye\\Views\\Category\\_CategoryNav.cshtml",
+              "ToolTip": "D:\\Calobye\\Calobye\\Views\\Category\\_CategoryNav.cshtml",
               "RelativeToolTip": "Calobye\\Views\\Category\\_CategoryNav.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -211,11 +279,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "CartController.cs",
-              "DocumentMoniker": "D:\\Calobye-asp.net-main\\Calobye\\Controllers\\CartController.cs",
+              "DocumentMoniker": "D:\\Calobye\\Calobye\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "Calobye\\Controllers\\CartController.cs",
-              "ToolTip": "D:\\Calobye-asp.net-main\\Calobye\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\Calobye\\Calobye\\Controllers\\CartController.cs",
               "RelativeToolTip": "Calobye\\Controllers\\CartController.cs",
               "ViewState": "AQIAACYAAADAAAAAAIAwwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -223,11 +291,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "RouteConfig.cs",
-              "DocumentMoniker": "D:\\Calobye-asp.net-main\\Calobye\\App_Start\\RouteConfig.cs",
+              "DocumentMoniker": "D:\\Calobye\\Calobye\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "Calobye\\App_Start\\RouteConfig.cs",
-              "ToolTip": "D:\\Calobye-asp.net-main\\Calobye\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Calobye\\Calobye\\App_Start\\RouteConfig.cs",
               "RelativeToolTip": "Calobye\\App_Start\\RouteConfig.cs",
               "ViewState": "AQIAAAsAAACwAAAAAIAtwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -235,11 +303,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Web.config",
-              "DocumentMoniker": "D:\\Calobye-asp.net-main\\Calobye\\Web.config",
+              "DocumentMoniker": "D:\\Calobye\\Calobye\\Web.config",
               "RelativeDocumentMoniker": "Calobye\\Web.config",
-              "ToolTip": "D:\\Calobye-asp.net-main\\Calobye\\Web.config",
+              "ToolTip": "D:\\Calobye\\Calobye\\Web.config",
               "RelativeToolTip": "Calobye\\Web.config",
               "ViewState": "AQIAACwAAADAzMzMzMwQwDkAAAACAQAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -248,11 +316,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Web.Debug.config",
-              "DocumentMoniker": "D:\\Calobye-asp.net-main\\Calobye\\Web.Debug.config",
+              "DocumentMoniker": "D:\\Calobye\\Calobye\\Web.Debug.config",
               "RelativeDocumentMoniker": "Calobye\\Web.Debug.config",
-              "ToolTip": "D:\\Calobye-asp.net-main\\Calobye\\Web.Debug.config",
+              "ToolTip": "D:\\Calobye\\Calobye\\Web.Debug.config",
               "RelativeToolTip": "Calobye\\Web.Debug.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",

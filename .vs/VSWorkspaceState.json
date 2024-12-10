@@ -3,8 +3,10 @@
     "",
     "\\Calobye",
     "\\Calobye\\Views",
+    "\\Calobye\\Views\\Shared",
+    "\\Calobye\\Views\\Shared\\Partial",
     "\\Calobye\\Views\\User"
   ],
-  "SelectedNode": "\\Calobye\\Views\\User\\changePassword.cshtml",
+  "SelectedNode": "\\Calobye.sln",
   "PreviewInSolutionExplorer": false
 }
